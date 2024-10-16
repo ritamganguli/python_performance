@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options as ChromeOptions
 
 username = "shubhamr"  # Replace the username
-access_key = "dl8Y8as59i1YyGZZUeLF897aCFvIDmaKkUU1e6RgBmlgMLIIhh"  # Replace the access key
+access_key = "xyz"  # Replace the access key
 
 options = ChromeOptions()
 options.browser_version = "latest"
